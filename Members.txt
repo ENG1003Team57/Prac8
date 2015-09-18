@@ -6,6 +6,9 @@ Role in project: Programmer
 Preferred branch of engineering: mechanical
 
 Chenyu Liu (Eric)
-iuhiouh
+introduction:	Chinesse
+roll:        programmer
+preferred branch of engineering: civil
+
 Junhao Chen (Daniel)
 
